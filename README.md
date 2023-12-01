@@ -1,4 +1,4 @@
-# crud_front
+# google-maps-react
 
 ## Tecnologias
 
