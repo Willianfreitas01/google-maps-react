@@ -7,6 +7,16 @@ Para o front-end eu utilizei apenas o yarn como gestor de pacotes, e algumas bib
 ## `yarn`
 O yarn está na versão 1.22.19
 
+para rodar o projeto com o yarn é necessário dar:
+```json
+ yarn install
+```
+e logo após um 
+```json
+ yarn start
+```
+para rodar a aplicação
+
 ## `react`
 O react está na versão 16.8.5
 
